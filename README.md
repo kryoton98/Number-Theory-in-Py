@@ -1,1 +1,1 @@
-# Number-Theory-in-Py
+# Number Theory in Python for Competitive Programming 
